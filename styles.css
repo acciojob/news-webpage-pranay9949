@@ -4,9 +4,20 @@
 	margin:0px;
 	padding:0px;
 }
-.card{
+.latest-news-section{
 	background-color:#fffffe;
-	width:35%;
+	
+	
+	padding:25px;
+	margin:10px;
+	border-radius:5px;
+	box-shadow:0px 0px 5px grey;
+	
+	
+}
+.pictorial-news-section{
+	background-color:#fffffe;
+	
 	
 	padding:25px;
 	margin:10px;
@@ -18,7 +29,7 @@
 .card>ul{
 	text-align:center;
 }
-h2{
+.head2{
 	background-color: #011e29;
 	font-family:arial;
 	margin:5px;
@@ -30,6 +41,7 @@ h2{
 h3{
 	font-family:arial;
 	padding-bottom:10px;
+	text-align:center;
 	
 }
 .img{
