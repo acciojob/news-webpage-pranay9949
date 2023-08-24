@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+*{
+ 
+	margin:0px;
+	padding:0px;
+}
+.card{
+	background-color:#fffffe;
+	width:35%;
+	
+	padding:25px;
+	margin:10px;
+	border-radius:5px;
+	box-shadow:0px 0px 5px grey;
+	
+	
+}
+.card>ul{
+	text-align:center;
+}
+h2{
+	background-color: #011e29;
+	font-family:arial;
+	margin:5px;
+	color:white;
+	text-align:center;
+	padding:10px;
+
+}
+h3{
+	font-family:arial;
+	padding-bottom:10px;
+	
+}
+.img{
+	width:100%;
+}
+
+.container{
+   display:flex;
+	
+}
+
+	
