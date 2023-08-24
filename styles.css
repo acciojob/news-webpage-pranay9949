@@ -12,8 +12,17 @@
 	margin:10px;
 	border-radius:5px;
 	box-shadow:0px 0px 5px grey;
+	text-align:center;
 	
+}
+.artilce{
+	background-color:#fffffe;
 	
+	text-align:center;
+	padding:25px;
+	margin:10px;
+	border-radius:5px;
+	box-shadow:0px 0px 5px grey;
 }
 .pictorial-news-section{
 	background-color:#fffffe;
@@ -23,7 +32,7 @@
 	margin:10px;
 	border-radius:5px;
 	box-shadow:0px 0px 5px grey;
-	
+	text-align:center;
 	
 }
 .card>ul{
